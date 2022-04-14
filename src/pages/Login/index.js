@@ -12,6 +12,7 @@ export default function Login() {
         <small>Lorem, ipsum dolor sit.</small>
       </Title>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <button type="button">aaa</button>
     </Container>
   );
 }
